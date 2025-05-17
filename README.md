@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tamsooo
-- 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning Godot/UE5
-- 💞️ I’m looking to collaborate on game jams
+- 👀 I’m interested in Desktop app dev
+- 🌱 I’m currently learning c#
 - 📫 How to reach me : discord tamsooo 
 - ⚡ fact: free palestine 🇵🇸
 
